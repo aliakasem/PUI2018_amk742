@@ -3,7 +3,7 @@ Continued to work on homework 11 to complete the time Subway time series using P
 
 
 ## Assigment 2 
-
+Time series clustering exercise
 
 ## Collaboration
 Lavender Zhang Kate Cauley, Manrique Vargas, Yushi Chen, Sarah Aita and Mark Bauer
