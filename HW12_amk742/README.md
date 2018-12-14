@@ -1,5 +1,5 @@
 ## Assignment 1
-Continued to work on homework 11 to complete the time Subway time series using Prof. Federica S
+Continued to work on homework 11 to complete the time Subway time series using Prof. Federica 
 
 
 ## Assigment 2 
